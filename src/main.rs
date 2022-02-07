@@ -35,8 +35,3 @@ fn main() {
     write_it(w_vec);
 */
 }
-
-/*
-Has error when carie is the password and arr1 vec does not have 0.
-In file hash_it
-*/
