@@ -1,2 +1,2 @@
 # cryptosassin
-Using rust to encrypt
+Using rust to encrypt files. 
