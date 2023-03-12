@@ -23,6 +23,8 @@ fn main() {
     // Take hash password and put in u8 Vec
     let unshVec: Vec<char> = hash_it::sqroots(t_word);
     hash_it::shuffle_it(unshVec);
+/*
+*/
 
 /*
     // Open file and put in Vec
